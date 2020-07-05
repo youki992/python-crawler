@@ -5,4 +5,4 @@
 
 ## 效果如图
 
-![](./images/1.gif)
+![image](./images/1.gif)
